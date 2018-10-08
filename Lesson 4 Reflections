@@ -2,6 +2,13 @@ Lesson 7 - When would you want to use a remote repository rather than keeping al
 
 You would want to use it when you want to share it immediately and want to save yourself the hassle of uploading and committing it manually.
 
-Lesson 10- Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Lesson 10 - Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You would want to pull manually so it doesn't pull in the middle of editing something.
+
+Lesson 14 - Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are copies of commits that you copy from someone else, clones are copies of files, and branches are splits in commits.
+You would use forks when you want files from someone's github and have to give permission.
+You would use clones when you need a copy of one of your files because you are going to edit something but still need the original to work.
+You would use branches when you need to commit a clone but can't commit on the master branch.
