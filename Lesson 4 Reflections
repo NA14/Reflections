@@ -12,3 +12,7 @@ Forks are copies of commits that you copy from someone else, clones are copies o
 You would use forks when you want files from someone's github and have to give permission.
 You would use clones when you need a copy of one of your files because you are going to edit something but still need the original to work.
 You would use branches when you need to commit a clone but can't commit on the master branch.
+
+Lesson 22 - What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is you can change the remote without having something breaks, and then replace the old copy wiht a new one.
