@@ -16,3 +16,9 @@ You would use branches when you need to commit a clone but can't commit on the m
 Lesson 22 - What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit is you can change the remote without having something breaks, and then replace the old copy wiht a new one.
+
+Lesson 25 - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You would collaborate by emailing it to each other. 
+You would be able to send your changes to the other person and they would know when and what you changed through the email.
+You wouldn't be able to make your own branch as easily and it would be harder to change files and get the updated ones.
