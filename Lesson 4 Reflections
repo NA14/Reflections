@@ -22,3 +22,9 @@ Lesson 25 - How would you collaborate without using Git or GitHub? What would be
 You would collaborate by emailing it to each other. 
 You would be able to send your changes to the other person and they would know when and what you changed through the email.
 You wouldn't be able to make your own branch as easily and it would be harder to change files and get the updated ones.
+
+Lesson 31 - When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a sperate branch when someone uses the master branch and you can't change it.
+The benefit of a sperate branch is someone else can work or someone can use the code. 
+The benefit of the master branch is you can merge it easier with someone elses work.
